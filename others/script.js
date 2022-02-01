@@ -1,0 +1,1 @@
+alert("Please keep in mind this site is to show that i know how to handle backend with node.js so excuse the poor styling. anyways enjoy!");
